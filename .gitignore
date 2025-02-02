@@ -17,9 +17,6 @@ kaggle.json
 # Pickle
 *.pickle
 
-# ipynb
-*.ipynb
-
 # Byte-compiled / optimized / compiled Python files
 __pycache__/
 *.py[cod]
