@@ -8,12 +8,12 @@ This repo contains data exploration, feature engineering, model development, and
 ## Repo Structure
 ```bash
 📂 jane-street-market-prediction
-│── 📂 dataset/              # Raw data (not included, please visit Kaggle competition page)
+│── 📂 dataset/              # Raw data (not included)
 │── 📂 notebooks/            # Jupyter notebooks for EDA, feature engineering, ML model training, and evaluation
 │── 📂 src/                  # Python scripts for preprocessing, DL model training, and evaluation
 │── 📂 shell/                # Shell scripts for running the project
 │── 📂 model/                # Trained models
-│── 📂 result/               # Model performance metrics, visualizations, and insights
+│── 📂 result/               # Model performance metrics
 │── 📜 environment.yml       # Dependencies for running the project
 │── 📜 README.md             # Overview and setup instructions
 │── 📜 .gitignore            # Ignore large datasets and unnecessary files
