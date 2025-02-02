@@ -1,0 +1,112 @@
+# Virtual environment
+js_kaggle_venv
+
+# Dataset
+*dataset
+
+# Output logs
+*_log/
+
+# Kaggle.json
+kaggle.json
+
+# Parquet
+*.parquet
+*.parquet
+
+# Pickle
+*.pickle
+
+# ipynb
+*.ipynb
+
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+*.cover
+coverage.xml
+*.lcov
+.cache/
+nosetests.xml
+pytest_cache/
+.pytest_cache/
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath
+*.sage.py
+
+# Environment variables
+.env
+.env.*
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Other system files
+.trash/
+*.out
+*.err
+wandb
+
+
+requirements.txt
